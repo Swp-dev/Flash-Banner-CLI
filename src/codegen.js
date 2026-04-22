@@ -215,5 +215,3 @@ export function generateCode(language, banner, varName = 'banner') {
   const code = lang.gen(banner, varName);
   return { code, ext: lang.ext };
 }
-
-void escEscape;
