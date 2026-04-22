@@ -41,6 +41,10 @@ npm install -g banner-cli
 ---
 
 ## 💻 Usage (Non-Interactive Mode)
+### 🔹 Normal Command
+```bash
+node src/index.js
+```
 
 Run everything instantly via CLI arguments (no prompts required).
 
@@ -215,6 +219,10 @@ npm install -g banner-cli
 ---
 
 ## 💻 Cách sử dụng (Không cần tương tác)
+### 🔹 lệnh chạy bằng prompt
+```bash
+node src/index.js
+```
 
 Chạy CLI với tham số → tool tự xử lý toàn bộ
 
