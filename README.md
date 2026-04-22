@@ -33,7 +33,7 @@ Perfect for:
 ## 🛠 Installation
 
 ```bash
-npm install -g banner-cli
+npm install
 ```
 
 > ⚠ Requires Node.js >= 16
@@ -211,7 +211,7 @@ Phù hợp cho:
 ## 🛠 Cài đặt
 
 ```bash
-npm install -g banner-cli
+npm install
 ```
 
 > ⚠ Yêu cầu Node.js >= 16
