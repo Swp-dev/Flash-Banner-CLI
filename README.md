@@ -54,6 +54,11 @@ Run everything instantly via CLI arguments (no prompts required).
 node src/index.js "Your Text" --style <preset> --export --exportLang <language>
 ```
 
+### Run File
+```bash
+node banner.js
+```
+
 ---
 
 ### 🔹 Examples
@@ -230,6 +235,11 @@ Chạy CLI với tham số → tool tự xử lý toàn bộ
 
 ```bash
 node src/index.js "Nội dung" --style <preset> --export --exportLang <ngôn_ngữ>
+```
+
+### Chạy file
+```bash
+node banner.js
 ```
 
 ---
