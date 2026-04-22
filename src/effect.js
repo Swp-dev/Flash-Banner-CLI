@@ -142,3 +142,5 @@ export function applyDecorationEffect(coloredText, plainText, effect = 'none') {
 
 export const STRUCTURAL_EFFECTS = new Set(['box', 'double', 'double box', 'rounded']);
 export const DECORATION_EFFECTS = new Set(['shadow', 'glitch']);
+
+
