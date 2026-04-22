@@ -13,3 +13,4 @@ export async function exportBannerAsCode({
   await writeFile(filePath, code, 'utf8');
   return filePath;
 }
+
