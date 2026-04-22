@@ -58,3 +58,5 @@ export async function showPreview(text, config, label = 'Preview') {
   warnIfTooWide(asciiWidth);
   console.log('');
 }
+
+
