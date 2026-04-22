@@ -1,4 +1,4 @@
-// xl chứ bố m dùng gg dịch..
+// xl chứ bố m dùng gg dịch...
 const STRINGS = {
   en: {
     intro_tagline: 'modern ASCII banner generator',
