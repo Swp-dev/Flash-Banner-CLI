@@ -151,17 +151,6 @@ GREETING=$'\e[1m\e[38;2;255;61;241m ...    __  ___ ...\e[22m'
 
 printf '%s\n' "$GREETING"
 ```
-
----
-
-## 🗺️ Roadmap
-
-### ✅ Completed
-
-* Multi-language export (10+ languages)
-* Glitch & Box effects
-* Preset system
-
 ---
 
 ### ⭐ At 100 Stars
@@ -336,17 +325,6 @@ GREETING=$'\e[1m\e[38;2;255;61;241m ...    __  ___ ...\e[22m'
 
 printf '%s\n' "$GREETING"
 ```
-
----
-
-## 🗺️ Lộ trình
-
-### ✅ Đã có
-
-* Export 10+ ngôn ngữ
-* Hiệu ứng glitch + box
-* Preset system
-
 ---
 
 ### ⭐ Khi đạt 100 stars
@@ -373,4 +351,4 @@ Bạn có thể:
 
 ## ⭐ Ủng hộ
 
-Nếu bạn thấy project hay, hãy cho 1 ⭐ nhé!
+làm ơn cho tui 1 star >.<
